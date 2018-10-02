@@ -13,8 +13,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-'https://github.com/krishnastc'
-WebUI.openBrowser('')
+WebUI.openBrowser('http://www.shilpe.com/')
 
 WebUI.closeBrowser()
 
